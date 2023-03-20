@@ -1,4 +1,4 @@
-# llama-dl
+# llama
 
 [<img width="310" alt="image" src="https://user-images.githubusercontent.com/59632/222979421-290299aa-b34f-4f3a-97c7-23332fe12c36.png">](https://twitter.com/anitakirkovska/status/1632447982720131074)
 
